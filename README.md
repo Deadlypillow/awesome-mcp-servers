@@ -500,6 +500,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Robotics, drones and physical AI.
 
+- [a2a2p](https://github.com/Deadlypillow/a2a2p) - The protocol between digital and physical: when an AI agent needs something in the real world (a part, product, robot, or machine), a2a2p finds the ideal solution from the right supplier at a fair price and returns a resolution report (buy-existing vs. custom-fabricate, pricing, delivery plan).
 - <img height="14" src="https://avatars.githubusercontent.com/u/224125194?s=200&v=4" alt="Extelligence Logo"> [Bagel](https://github.com/Extelligence-ai/bagel) - ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
 
 <br />
